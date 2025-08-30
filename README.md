@@ -1,6 +1,23 @@
 # Hi, I'm sunrise 👋
 a person who wakes you up every morning  
 
+
+<h2>Connect with Me:</h2>
+<div style="display: flex; gap: 10px;">
+  <a href="mailto:your-email@gmail.com" target="_blank" style="padding: 10px; background-color: #f1f1f1; border-radius: 10px; text-decoration: none; display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail" alt="Gmail" style="height: 30px; margin-right: 8px;">Gmail
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank" style="padding: 10px; background-color: #f1f1f1; border-radius: 10px; text-decoration: none; display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" style="height: 30px; margin-right: 8px;">LinkedIn
+  </a>
+  <a href="https://t.me/your-telegram" target="_blank" style="padding: 10px; background-color: #f1f1f1; border-radius: 10px; text-decoration: none; display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram" alt="Telegram" style="height: 30px; margin-right: 8px;">Telegram
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank" style="padding: 10px; background-color: #f1f1f1; border-radius: 10px; text-decoration: none; display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=flat&logo=portfolio" alt="Portfolio" style="height: 30px; margin-right: 8px;">Portfolio
+  </a>
+</div>
+
 ## Connect with Me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
