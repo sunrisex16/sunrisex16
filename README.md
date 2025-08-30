@@ -1,6 +1,6 @@
 # Hi, I'm sunrise 👋
 
-_A brief intro about yourself_
+the person who wakes you up every morning
 
 ## Connect with Me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
