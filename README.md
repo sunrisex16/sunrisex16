@@ -26,7 +26,7 @@ _"You can't learn to swim by reading; you have to get in the water. The same goe
 
 ---
 
-## Additional Sections (optional):
+## Additional Sections :
 - **About Me**: i like to learn coding
 - **Achievements**: can type really fucking fast
 - **Projects**: are in the links
