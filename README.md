@@ -14,7 +14,7 @@ the person who wakes you up every morning
         </a>
       </td>
       <td align="center" width="100" height="100">
-        <a href="https://linkedin.com/in/sunrisex16>
+        <a href="https://linkedin.com/in/sunrisex16">
           <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
         </a>
       </td>
